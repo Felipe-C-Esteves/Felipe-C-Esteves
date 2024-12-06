@@ -1,4 +1,2 @@
-- Hi, I’m Felipe Esteves?
-- Currently learning JavaScript (On the hello world part though)
-- Not very good at life
-- Don't have any pronouns don't refer to me
+- Hi, I’m Felipe Esteves
+- Currently learning JavaScript
