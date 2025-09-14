@@ -1,2 +1,2 @@
 - Hi, I’m Felipe Esteves
-- Currently learning JavaScript
+- Currently learning C/C++
